@@ -1,5 +1,5 @@
 # TripleTen_projects
-Projects I worked on while attending Business Intelligence Analyst Bootcamp at TripleTen.
+Projects I worked on while attending Business Intelligence Analysis Bootcamp at TripleTen.
 
 
 | Project number | Title | Description |
